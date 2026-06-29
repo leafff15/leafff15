@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JJ</h1>
+<h1 align="center">Hi 👋, I'm J.J</h1>
 
 - I'm an Aspiring Software Engineer with interests in Full-Stack Development and Backend Development. I am Passionate about building practical solutions and continuously improving through hands-on projects and real-world problem solving.
 
