@@ -2,7 +2,7 @@
 
 - I'm an Aspiring Software Engineer with interests in Full-Stack Development and Backend Development. I am Passionate about building practical solutions and continuously improving through hands-on projects and real-world problem solving.
 
-- 🌱 I’m currently learning ``Javascript``, ``HTML5`` and ``CSSs3``
+- 🌱 I’m currently learning ``Javascript``, ``HTML5`` and ``CSS3``
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
